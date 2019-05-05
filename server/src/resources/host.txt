@@ -1,0 +1,7 @@
+localhost 127.0.0.1
+google.com 216.58.205.78
+facebook.com 31.13.86.36
+atromitosfc.gr 213.16.167.148
+fentagin.gr 185.138.42.40
+webmail.teiath.gr 195.130.100.4
+webmail.uniwa.gr 40.101.88.194
